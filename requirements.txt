@@ -1,1 +1,6 @@
+streamlit          # For the Streamlit app framework
+tensorflow         # For loading and using the saved model
+numpy              # For numerical operations
+pillow             # For image handling (PIL library)
+opencv-python-headless  # For image preprocessing (using cv2)
 
